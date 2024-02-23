@@ -1,0 +1,22 @@
+.profile {
+  background-color: hsl(0, 0%, 12%);
+  width: 500px;
+  border-radius: 20px;
+}
+
+.profile-parent {
+  height: 100vh;
+}
+
+.buttn {
+  background-color: hsl(0, 0%, 20%);
+  border: transparent;
+  border-radius: 10px;
+}
+
+.buttn:hover {
+  background-color: hsl(75, 94%, 57%);
+  span {
+    color: black;
+  }
+}
